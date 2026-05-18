@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding//src/main/webapp/WEB-INF/views/sideBar.jsp=UTF-8
+=======
+encoding//src/main/java/kr/or/smartfarm/board=UTF-8
+>>>>>>> 16a66f721dadcf8ba81d2fbed26810c66b85a581
