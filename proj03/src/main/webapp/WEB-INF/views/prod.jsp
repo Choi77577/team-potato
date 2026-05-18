@@ -11,6 +11,7 @@
 </div>
 
 <!-- 검색 영역 -->
+<form action='/list' method='get'>
 <div class="search-box">
     <div class="search-row">
         <div class="search-group">
@@ -39,7 +40,7 @@
         </div>
     </div>
 </div>
-
+</form>
 <!-- 목록 테이블 -->
 <div class="table-wrap">
     <table class="list-table">

@@ -9,6 +9,9 @@
         <setting name="jdbcTypeForNull" value="NULL" />
     </settings>
     
+    <typeAliases>
+        <typeAlias type="kr.or.smartfarm.prod.ProdDTO" alias="prodDTO" />
+    </typeAliases>
       
 
 
